@@ -24,4 +24,4 @@
 - Uncovered seasonal trends, shipping preferences, and return patterns for better operational planning.
 - Delivered actionable insights on regional performance and payment modes to guide strategic decisions.
 
-![Dashboard Preview].(https://github.com/tjtanmay17/Amazon-Store-Dashboard/blob/main/Amazon%20Sales%20Dashboard.jpeg).
+![Dashboard Preview](https://github.com/tjtanmay17/Amazon-Store-Dashboard/blob/main/Amazon%20Sales%20Dashboard.jpeg)
